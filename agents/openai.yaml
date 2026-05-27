@@ -1,0 +1,5 @@
+interface:
+  display_name: "科研"
+  short_description: "科研项目目录治理、备份更新与讲解站点规范"
+  default_prompt: "Use $scientific-research to organize this research workspace, enforce the folder conventions, and update backup/progress artifacts."
+
